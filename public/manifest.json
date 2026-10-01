@@ -1,0 +1,18 @@
+{
+  "name": "로얄 로또 VIP - 1등 번호 예측 시스템",
+  "short_name": "로얄로또VIP",
+  "description": "최고급 다크 럭셔리 & 3D 피직스 기반 인공지능 로또 1등 번호 예측 솔루션",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08090C",
+  "theme_color": "#08090C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
